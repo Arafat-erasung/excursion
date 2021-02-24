@@ -1,25 +1,27 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
-}
+} */
 
 body {
     background-color: rgb(0, 0, 0);
     text-align: center;
+    font-family: verdana;
 }
 
 h1 {
-    font-family: verdana;
+    font-family: inherit;
     font-size: 50px;
     color: #fff;
     font-weight: normal;
     text-align: center;
 }
 
-a {
+body a {
     color: #7fffd4;
     font-size: 16px;
     text-align: center;
+    margin-bottom: 40px;
 }
 
 h2 {
@@ -27,4 +29,28 @@ h2 {
     font-weight: 300;
     font-size: 42px;
     color: #fff
+}
+
+p {
+    font-family: inherit;
+    font-size: 21px;
+    color: #808080;
+}
+
+.p2 {
+    color: white;
+    font-family: inherit;
+    font-size: 42px;
+}
+
+.p3 {
+    text-align: right;
+}
+
+.phoneimg {
+    margin-top: 40px;
+}
+
+.video {
+    margin-top: 40px;
 }
