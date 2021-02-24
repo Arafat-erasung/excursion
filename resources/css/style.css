@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: verdana;
+    font-size: 50px;
+    color: #fff;
+    font-weight: normal;
+    text-align: center;
+}
+
+a {
+    color: #7fffd4;
+    font-size: 16px;
+}
